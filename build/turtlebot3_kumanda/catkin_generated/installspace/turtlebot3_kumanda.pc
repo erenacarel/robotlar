@@ -1,0 +1,8 @@
+prefix=/home/eren/robotlar_ws/install
+
+Name: turtlebot3_kumanda
+Description: Description of turtlebot3_kumanda
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

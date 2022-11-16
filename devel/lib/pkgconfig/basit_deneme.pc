@@ -1,0 +1,8 @@
+prefix=/home/eren/robotlar_ws/devel
+
+Name: basit_deneme
+Description: Description of basit_deneme
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/eren/robotlar_ws/devel
+
+Name: solver_maze
+Description: Description of solver_maze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

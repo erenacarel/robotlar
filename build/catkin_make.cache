@@ -1,0 +1,2 @@
+basit_deneme:micromouse_maze:solve_maze:turtlebot3/turtlebot3:turtlebot3/turtlebot3_bringup:turtlebot3/turtlebot3_description:turtlebot3/turtlebot3_example:turtlebot3/turtlebot3_navigation:turtlebot3/turtlebot3_slam:turtlebot3/turtlebot3_teleop:turtlebot3_kumanda:turtlebot3_laser:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
+-DCATKIN_DEVEL_PREFIX=/home/eren/robotlar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/eren/robotlar_ws/install -G Unix Makefiles
